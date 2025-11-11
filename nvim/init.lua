@@ -1,0 +1,5 @@
+require("kaleidoscope")
+require("generic.lazynvim")
+require("lazy").setup("plugins")
+require("generic.lsp")
+print("Hello world two!")
